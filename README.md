@@ -2,7 +2,7 @@
 
 MERNstack photo sharing application for coding skill test.
 
-## Frontend built with
+## Frontend built with 
 
 - [React](https://reactjs.org/)
 
